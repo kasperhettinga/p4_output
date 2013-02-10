@@ -1,0 +1,143 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: 98ufEg/ggCBXzyb7oHRFUoGtln0=
+
+Name: kernel/busybox
+SHA1-Digest: lUsOGUy5u7GD3yRQqxIyL/1ht34=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/modules.alias.bin
+SHA1-Digest: WbO+o/BBDTuhNz/0GnerwUfCWz0=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/modules.builtin.bin
+SHA1-Digest: IV24fOX1yJoO5x/02nlhqUyC/Nw=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/modules.alias
+SHA1-Digest: oVRKyOA41dESkqmGyV9TA90Kz5g=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/kernel/fs/nfs/nfs.ko
+SHA1-Digest: ePmWKkLhXGPmUg2nTgKC4CHVvCk=
+
+Name: kernel/dump_boot.sh
+SHA1-Digest: 8BVx0NywZ6eUtbcz8vIMLN9hv+s=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/kernel/net/sunrpc/auth_
+ gss/rpcsec_gss_krb5.ko
+SHA1-Digest: odUMUyCbmtyEaW5V4Z7LMd588H0=
+
+Name: kernel/unpackbootimg
+SHA1-Digest: K2uHVl5hIXQYxigmkdGePiYY0Sw=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/modules.softdep
+SHA1-Digest: Y02JQ8VKctVWqKY1cVEgnmJ9jtc=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/kernel/fs/nfs_common/nf
+ s_acl.ko
+SHA1-Digest: FModLJXvnHHV7q3rwloj4dCcNtQ=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/modules.builtin
+SHA1-Digest: OoghPvDO6sX6gAagW/RMiRFHW6c=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/kernel/net/sunrpc/auth_
+ gss/auth_rpcgss.ko
+SHA1-Digest: eFdBjENSfwh2Mvo8hXgQT6jq52I=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/kernel/fs/ntfs/ntfs.ko
+SHA1-Digest: 405yQsmeuyuR8AZXU4T5+O+cNPU=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/modules.isapnpmap
+SHA1-Digest: zYiYjaHdzs4yVIGd7MDv9dVxMp4=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/modules.devname
+SHA1-Digest: cQFU3u1lbZzihU7hjt1UiC8IHSk=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/modules.dep.bin
+SHA1-Digest: OkZ7JfL2j6hKTMALBMVQ/19D6Wc=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: juZPnYeKQU7YjKNXAA63+WPW/XU=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/kernel/drivers/scsi/scs
+ i_wait_scan.ko
+SHA1-Digest: 0KJy27q16p3SyDp80eCRgMz5Dhg=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/modules.order
+SHA1-Digest: q3w6XGDDLRlGiMm1yN4MGbZDvyA=
+
+Name: kernel/zImage
+SHA1-Digest: Uz4Lg7cRxdptX0WNZhS8RbFqzZM=
+
+Name: kernel/mkbootimg
+SHA1-Digest: U3B8MrarkuVWmudAKofIHcUK13s=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/modules.ofmap
+SHA1-Digest: 3v0h3BG/CHkzdiqQdetW84kxuDY=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/kernel/drivers/net/usb/
+ asix.ko
+SHA1-Digest: HAoGZvK+jU4ca0MYdyrU1ROEnQ0=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/kernel/drivers/input/ff
+ -memless.ko
+SHA1-Digest: VMSqAVqkwgTXBcOYG9PAMEv/UvU=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/modules.dep
+SHA1-Digest: MY7uj+epOi+sgZxJOYsh4QsN33k=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/modules.symbols.bin
+SHA1-Digest: 0zO13Yjlk+k4ufdTngSMcZCsPrw=
+
+Name: kernel/unpackbootimg.sh
+SHA1-Digest: R7JELF7u7mrejpEt6MaiuTNTrec=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/kernel/net/sunrpc/sunrp
+ c.ko
+SHA1-Digest: kzcPk/7xgrri1MYFdo9701XLreA=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/kernel/fs/lockd/lockd.k
+ o
+SHA1-Digest: eHrUQvZ6qKNAverohKlqnWVuaxc=
+
+Name: kernel/mkbootimg.sh
+SHA1-Digest: ecJp0uAe0tbL/EN1YaoHgmv8Qhg=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/modules.symbols
+SHA1-Digest: Dt6MqFpDZtr+APOAKQHwTNRSHOk=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/modules.ieee1394map
+SHA1-Digest: e4180RYNVu6KdQZb65fwbk2lMNo=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/kernel/drivers/hid/hid-
+ sony.ko
+SHA1-Digest: QmwcZqwK1LiGvxgEWGWpjQ3ZG3I=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/modules.pcimap
+SHA1-Digest: 4cp2Lp91g0U0kXmyF+x5JRGa/jk=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/modules.seriomap
+SHA1-Digest: rWUwaJ5KODvETCDhLGOof1Oc6y8=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: 2HMRS8uakgypBsv+usN5of3A3xc=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/kernel/drivers/input/jo
+ ystick/xpad.ko
+SHA1-Digest: qzwxNsooJxkETch2sz8flU4jwCg=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/modules.inputmap
+SHA1-Digest: X7AMn0THfK4gQZhIBjWYFWF6/fk=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/kernel/fs/cifs/cifs.ko
+SHA1-Digest: 80AJ9t0ZUGrF6k4hgWguyytXZ7U=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/modules.ccwmap
+SHA1-Digest: VnfRsVtYmtCWU4B17Cms+39b/OY=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/modules.usbmap
+SHA1-Digest: uNWechQNsNHE81t6mzF8KSmXOV8=
+
+Name: system/lib/modules/2.6.36.4-cyanogenmod+/kernel/fs/aufs/aufs.ko
+SHA1-Digest: +RFFXG5Nyt5BKsdAbakULNNvtRU=
+
+Name: system/lib/modules/bcmdhd.ko
+SHA1-Digest: x/TxhP9q7KWpuyuEtXnCQCY1FUY=
+
